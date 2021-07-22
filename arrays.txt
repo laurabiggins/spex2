@@ -7,7 +7,23 @@
             "start_date": "2011/04/25",
             "office": "Edinburgh",
             "extn": "5421"
-        }
+        },
+		{
+            "name": "Lion Roarer",
+            "position": "System2 Architect",
+            "salary": "$50,800",
+            "start_date": "2021/01/10",
+            "office": "seaside",
+            "extn": "5421"
+        },
+		{
+			"name": "Snake Charmer",
+			"position": "Squeezer",
+			"salary": "$250,800",
+			"start_date": "2021/01/10",
+			"office": "jungle",
+			"extn": "5421"
+        },
     ]
 }
  
