@@ -16,14 +16,14 @@
             "office": "seaside",
             "extn": "5421"
         },
-		{
-			"name": "Snake Charmer",
-			"position": "Squeezer",
-			"salary": "$250,800",
-			"start_date": "2021/01/10",
-			"office": "jungle",
-			"extn": "5421"
-        },
+	{
+		"name": "Snake Charmer",
+		"position": "Squeezer",
+		"salary": "$250,800",
+		"start_date": "2021/01/10",
+		"office": "jungle",
+		"extn": "5421"
+        }
     ]
 }
  
